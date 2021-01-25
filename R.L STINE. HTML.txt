@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>R.L STINE</h1>
+    
+    <img src="rl.jpg"
+         alt="R.L STINE">
+    
+       <p>Robert Lawrence Stine is the full name of R.L Stine,sometime he is also known as Jovial Bob Stine and Eric Affabbe.He was born on 8 october 1943 in US,Columbus but he grew up in Bexley.He was born in a Jewish family.   So R.L Stine is an American novelist.His father's name was Lewis Stine and Lewis Stine was a shipping clerk.His mother's name was Anne Stine and Anne Stine was a homemaker.He have a younger brother name Bill Stine and a younger sister Pam Stine.He maried with Jane Waldhorn on 22nd june 1969 and Jane Waldhorn is a writer and editor. He have a son name Matt Stine and Matt Stine is working in music industory.R.L Stine's daughter in law's name is Elisabeth Weinberg and Elisabeth Weinberg is a author.So R.L Stine also have have his grandson name Dylan Stine.So R.L Stine is an American novelist,short story writer,televison producer,screen writer and executive editor but he is bestly known for his horror storry books for chlidren some of his series are of Goosebumps,Fear Street Series,
+Mostly Ghostly,etc.</p>
+  </body>
+</html>
